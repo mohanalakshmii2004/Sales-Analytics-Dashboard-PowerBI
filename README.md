@@ -19,7 +19,7 @@ This project is an interactive **Power BI dashboard** designed to analyze sales 
 
 ##  Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](SUMMARY DASHBOARD.png)
 
 ---
 
